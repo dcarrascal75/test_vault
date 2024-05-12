@@ -30,13 +30,18 @@ git init
 - conectar el repo local con el remoto:
 git remote add origin https://github.com/dcarrascal75/obsidian.git
 
-He tenido que crear un token nuevo: 
+He tenido que crear un token nuevo (en 3 lineas)
 
 ```
-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  --> toquen for obsidian
+ghp_4ZLpET9UG
+Kx9cuWtj67v03y
+qVPzDfn0UwNhs  --> toquen for obsidian
 
 ```
 
+Nota: es curioso que github no te deja subir secrets:
+![[Pasted image 20240512180334.png]]
+Por eso lo he partido arriba en 3 lineas ;)
 
 Problema con varios vaults: 
 - Al crear un vault nuevo, los plugins no se copian. Parece ser que una solucion es copiar la carpeta oculta .obsidian del vault.
