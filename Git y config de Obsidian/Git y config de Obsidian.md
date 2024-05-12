@@ -32,8 +32,10 @@ git remote add origin https://github.com/dcarrascal75/obsidian.git
 
 He tenido que crear un token nuevo: 
 
-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  --> token for obsidian
+```
+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  --> toquen for obsidian
 
+```
 
 
 Problema con varios vaults: 
