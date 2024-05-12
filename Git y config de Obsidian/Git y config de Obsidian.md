@@ -34,8 +34,10 @@ He tenido que crear un token nuevo (en 3 lineas)
 
 ```
 ghp_4ZLpET9UG
+linea_de_coña
 Kx9cuWtj67v03y
-qVPzDfn0UwNhs  --> toquen for obsidian
+linea_de_coña_2
+qVPzDfn0UwNhs<esto sobra>
 
 ```
 
