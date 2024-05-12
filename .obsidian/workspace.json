@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bed9664149499d13",
+        "id": "bc2554d629f4a7f2",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa22c8e4132b92d",
+            "id": "fd84617df6715996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/List of Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca0be30ccb983960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/Voucher.md",
+                "file": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kustomize",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/Voucher.md",
+                "file": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/Voucher.md",
+                "file": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/Voucher.md"
+                "file": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md"
               }
             }
           },
@@ -186,54 +173,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca0be30ccb983960",
+  "active": "fd84617df6715996",
   "lastOpenFiles": [
-    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
-    "Certs_and_Trainings/AWS_CERT/Voucher.md",
-    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
-    "Certs_and_Trainings/Kustomize/3) Patching Resources.md",
-    "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md",
-    "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md",
+    "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md",
+    "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
+    "Certs_and_Trainings/Instana/Instana.md",
+    "_attachment/Pasted image 20240508112016.png",
+    "_attachment/Pasted image 20240508104629.png",
+    "Certs_and_Trainings/AWS_CERT/RDS y Aurora.md",
+    "Certs_and_Trainings/Instana",
+    "_attachment/Pasted image 20240505213933.png",
+    "_attachment/compra Santander.pdf",
+    "Inversion/compra santander.md",
+    "Inversion",
+    "Obsidian.md",
+    "Welcome.md",
+    "_attachment/Pasted image 20240505203345.png",
+    "_attachment/Pasted image 20240505203316.png",
+    "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
+    "Certs_and_Trainings/Pendiente de investigar.md",
     "Certs_and_Trainings/AWS_CERT/List of Services.md",
+    "_attachment/Pasted image 20240504081534.png",
+    "Certs_and_Trainings/Helm/Helm.md",
+    "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md",
+    "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md",
+    "Certs_and_Trainings/Kustomize/3) Patching Resources.md",
+    "Certs_and_Trainings/Kustomize/2) Kustomization File.md",
+    "_attachment/Pasted image 20240428202636.png",
+    "Trucos Mac/trucos Mac.md",
+    "Trucos Mac",
+    "Git y config de Obsidian/Git y config de Obsidian.md",
+    "_attachment/Pasted image 20240428193259.png",
+    "Git y config de Obsidian",
+    "Certs_and_Trainings/Helm",
+    "Certs_and_Trainings/AWS_CERT/Voucher.md",
+    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
+    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
     "_attachment/Pasted image 20240403081135.png",
     "_attachment/Pasted image 20240402202245.png",
-    "_attachment/Pasted image 20240402202014.png",
-    "_attachment/Pasted image 20240402081830.png",
-    "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md",
-    "Certs_and_Trainings/Kustomize/2) Kustomization File.md",
     "Diario/2024-01-12.md",
-    "Certs_and_Trainings/Pendiente de investigar.md",
-    "_attachment/Pasted image 20240401194545.png",
     "Certs_and_Trainings/Kustomize/Ejercicio.md",
-    "_attachment/Pasted image 20240401192308.png",
-    "_attachment/Pasted image 20240401190746.png",
-    "_attachment/Pasted image 20240401185642.png",
-    "_attachment/Pasted image 20240401095414.png",
-    "_attachment/Pasted image 20240401094353.png",
     "Personal/Habitos/Habitos que implantar.md",
     "Certs_and_Trainings/Kustomize",
     "Certs_and_Trainings",
-    "Obsidian.md",
     "Certs_and_Trainings/AWS_CERT",
     "Personal/Habitos/Batch Cooking.md",
     "Personal/Habitos",
     "diario.md",
     "Three laws of motion.md",
-    "personal.md",
-    "Personal",
-    "Periodic/Years/Untitled.md",
-    "Diario/2024-01-09.md",
-    "Diario/2024-01-11.md",
-    "2024-01-12.md",
-    "_templates/daily_template.md",
-    "_templates/daily_template.txt",
-    "_templates/aws_pb_dev_db_creds.txt",
-    "_templates/untitled folder",
-    "Untitled 1.md",
-    "my Kanban Board.md",
-    "Welcome.md",
-    "Untitled.canvas",
-    "Periodic/Months",
-    "Periodic/Quarters"
+    "Untitled.canvas"
   ]
 }

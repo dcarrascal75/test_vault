@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Kustomize - Notas(I)",
+      "path": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md"
+    },
+    {
+      "basename": "1) Kustomize - intro",
+      "path": "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md"
+    },
+    {
+      "basename": "Instana",
+      "path": "Certs_and_Trainings/Instana/Instana.md"
+    },
+    {
+      "basename": "RDS y Aurora",
+      "path": "Certs_and_Trainings/AWS_CERT/RDS y Aurora.md"
+    },
+    {
+      "basename": "compra santander",
+      "path": "Inversion/compra santander.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Obsidian.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "Cosas para aplicar al curro",
+      "path": "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md"
+    },
+    {
+      "basename": "Pendiente de investigar",
+      "path": "Certs_and_Trainings/Pendiente de investigar.md"
+    },
+    {
+      "basename": "List of Services",
+      "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
+    },
+    {
+      "basename": "Helm",
+      "path": "Certs_and_Trainings/Helm/Helm.md"
+    },
+    {
+      "basename": "5) kustomize CLI and Helm",
+      "path": "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md"
+    },
+    {
+      "basename": "4) Multiple Environments - Overlays",
+      "path": "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md"
+    },
+    {
+      "basename": "3) Patching Resources",
+      "path": "Certs_and_Trainings/Kustomize/3) Patching Resources.md"
+    },
+    {
+      "basename": "2) Kustomization File",
+      "path": "Certs_and_Trainings/Kustomize/2) Kustomization File.md"
+    },
+    {
+      "basename": "trucos Mac",
+      "path": "Trucos Mac/trucos Mac.md"
+    },
+    {
+      "basename": "Git y config de Obsidian",
+      "path": "Git y config de Obsidian/Git y config de Obsidian.md"
+    },
+    {
       "basename": "Voucher",
       "path": "Certs_and_Trainings/AWS_CERT/Voucher.md"
     },
@@ -13,36 +81,8 @@
       "path": "Certs_and_Trainings/AWS_CERT/1- Bases.md"
     },
     {
-      "basename": "3) Patching Resources",
-      "path": "Certs_and_Trainings/Kustomize/3) Patching Resources.md"
-    },
-    {
-      "basename": "4) Multiple Environments - Overlays",
-      "path": "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md"
-    },
-    {
-      "basename": "5) kustomize CLI and Helm",
-      "path": "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md"
-    },
-    {
-      "basename": "List of Services",
-      "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
-    },
-    {
-      "basename": "1) Kustomize - intro",
-      "path": "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md"
-    },
-    {
-      "basename": "2) Kustomization File",
-      "path": "Certs_and_Trainings/Kustomize/2) Kustomization File.md"
-    },
-    {
       "basename": "2024-01-12",
       "path": "Diario/2024-01-12.md"
-    },
-    {
-      "basename": "Pendiente de investigar",
-      "path": "Certs_and_Trainings/Pendiente de investigar.md"
     },
     {
       "basename": "Ejercicio",
@@ -51,10 +91,6 @@
     {
       "basename": "Habitos que implantar",
       "path": "Personal/Habitos/Habitos que implantar.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Obsidian.md"
     },
     {
       "basename": "Batch Cooking",
@@ -83,10 +119,6 @@
     {
       "basename": "my Kanban Board",
       "path": "my Kanban Board.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
     },
     {
       "basename": "2024-01-10 mondongada",
