@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
+                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
+                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
+                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md"
+                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,6 +175,15 @@
   },
   "active": "fd84617df6715996",
   "lastOpenFiles": [
+    "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md",
+    "_attachment/Pasted image 20240518202716.png",
+    "Certs_and_Trainings/AWS_CERT/IAM.md",
+    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
+    "_attachment/kanban.md",
+    "Certs_and_Trainings/AWS_CERT/List of Services.md",
+    "Certs_and_Trainings/AWS_CERT/otros recursos.md",
+    "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
+    "_attachment/Pasted image 20240512185316.png",
     "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
     "Git y config de Obsidian/Git y config de Obsidian.md",
     "_attachment/Pasted image 20240512180334.png",
@@ -193,33 +202,24 @@
     "Welcome.md",
     "_attachment/Pasted image 20240505203345.png",
     "_attachment/Pasted image 20240505203316.png",
-    "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
     "Certs_and_Trainings/Pendiente de investigar.md",
-    "Certs_and_Trainings/AWS_CERT/List of Services.md",
     "_attachment/Pasted image 20240504081534.png",
     "Certs_and_Trainings/Helm/Helm.md",
     "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md",
     "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md",
     "Certs_and_Trainings/Kustomize/3) Patching Resources.md",
     "Certs_and_Trainings/Kustomize/2) Kustomization File.md",
-    "_attachment/Pasted image 20240428202636.png",
     "Trucos Mac/trucos Mac.md",
     "Trucos Mac",
-    "_attachment/Pasted image 20240428193259.png",
     "Git y config de Obsidian",
     "Certs_and_Trainings/Helm",
     "Certs_and_Trainings/AWS_CERT/Voucher.md",
     "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
-    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
     "Diario/2024-01-12.md",
-    "Certs_and_Trainings/Kustomize/Ejercicio.md",
-    "Personal/Habitos/Habitos que implantar.md",
     "Certs_and_Trainings/Kustomize",
     "Certs_and_Trainings",
     "Certs_and_Trainings/AWS_CERT",
-    "Personal/Habitos/Batch Cooking.md",
     "Personal/Habitos",
-    "diario.md",
     "Untitled.canvas"
   ]
 }

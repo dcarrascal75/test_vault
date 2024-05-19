@@ -30,3 +30,6 @@ Por supuesto, aquí tienes una lista de servicios de AWS que suelen incluirse en
 12. AWS IAM (Identity and Access Management): Un servicio que proporciona control de acceso seguro a los servicios y recursos de AWS. Permite gestionar usuarios, grupos, roles y permisos para garantizar la seguridad de la cuenta de AWS.
 
 Estos son solo algunos de los servicios de AWS que podrían incluirse en el examen AWS Certified Solutions Architect Associate SAA-C03. Es importante revisar el plan de estudios oficial de AWS para obtener una lista completa y actualizada de los temas a cubrir en el examen.
+
+----
+**CloudShell**: Es como la consola de AWS cli pero en la nube. Obviamente usa los permisos de tu usuario

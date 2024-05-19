@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Git y config de Obsidian",
-      "path": "Git y config de Obsidian/Git y config de Obsidian.md"
+      "basename": "otros recursos",
+      "path": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
+    },
+    {
+      "basename": "storage types -> EBS - EFS",
+      "path": "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md"
+    },
+    {
+      "basename": "IAM",
+      "path": "Certs_and_Trainings/AWS_CERT/IAM.md"
+    },
+    {
+      "basename": "1- Bases",
+      "path": "Certs_and_Trainings/AWS_CERT/1- Bases.md"
+    },
+    {
+      "basename": "kanban",
+      "path": "_attachment/kanban.md"
+    },
+    {
+      "basename": "List of Services",
+      "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
+    },
+    {
+      "basename": "Cosas para aplicar al curro",
+      "path": "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md"
     },
     {
       "basename": "Kustomize - Notas(I)",
       "path": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md"
+    },
+    {
+      "basename": "Git y config de Obsidian",
+      "path": "Git y config de Obsidian/Git y config de Obsidian.md"
     },
     {
       "basename": "1) Kustomize - intro",
@@ -33,16 +61,8 @@
       "path": "Welcome.md"
     },
     {
-      "basename": "Cosas para aplicar al curro",
-      "path": "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md"
-    },
-    {
       "basename": "Pendiente de investigar",
       "path": "Certs_and_Trainings/Pendiente de investigar.md"
-    },
-    {
-      "basename": "List of Services",
-      "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
     },
     {
       "basename": "Helm",
@@ -75,10 +95,6 @@
     {
       "basename": "AWS Burn Account for testing",
       "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
-    },
-    {
-      "basename": "1- Bases",
-      "path": "Certs_and_Trainings/AWS_CERT/1- Bases.md"
     },
     {
       "basename": "2024-01-12",
@@ -171,10 +187,6 @@
     {
       "basename": "kanban",
       "path": "kanban.md"
-    },
-    {
-      "basename": "kanban",
-      "path": "_attachment/kanban.md"
     }
   ],
   "omittedPaths": [],

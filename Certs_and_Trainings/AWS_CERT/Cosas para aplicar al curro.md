@@ -52,3 +52,13 @@ https://chat.openai.com/share/161562b2-1156-464d-8d0a-9fc4874f9134
 
 la combinacion ideal seria RDS con IAM, Proxy con IAM.
 Eso permite varios perfiles, por lo visto. --> Verificarlo
+
+
+---
+
+Existe la posibilidad de crear replicas de **lectura** que escalen automaticamente en funcion de CPU o connections
+
+
+![[Pasted image 20240512185316.png]]
+
+---
