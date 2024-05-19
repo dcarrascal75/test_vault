@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md",
+                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md",
+                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md",
+                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
+                "file": "Git y config de Obsidian/Git y config de Obsidian.md"
               }
             }
           },
@@ -175,13 +175,13 @@
   },
   "active": "fd84617df6715996",
   "lastOpenFiles": [
+    "Certs_and_Trainings/AWS_CERT/otros recursos.md",
     "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md",
     "_attachment/Pasted image 20240518202716.png",
     "Certs_and_Trainings/AWS_CERT/IAM.md",
     "Certs_and_Trainings/AWS_CERT/1- Bases.md",
     "_attachment/kanban.md",
     "Certs_and_Trainings/AWS_CERT/List of Services.md",
-    "Certs_and_Trainings/AWS_CERT/otros recursos.md",
     "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
     "_attachment/Pasted image 20240512185316.png",
     "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",

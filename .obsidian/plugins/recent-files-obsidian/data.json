@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git y config de Obsidian",
+      "path": "Git y config de Obsidian/Git y config de Obsidian.md"
+    },
+    {
       "basename": "otros recursos",
       "path": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Kustomize - Notas(I)",
       "path": "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md"
-    },
-    {
-      "basename": "Git y config de Obsidian",
-      "path": "Git y config de Obsidian/Git y config de Obsidian.md"
     },
     {
       "basename": "1) Kustomize - intro",
