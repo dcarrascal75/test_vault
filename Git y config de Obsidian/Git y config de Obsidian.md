@@ -33,11 +33,11 @@ git remote add origin https://github.com/dcarrascal75/obsidian.git
 He tenido que crear un token nuevo (en 3 lineas)
 
 ```
-ghp_4ZLpET9UG
-linea_de_coña
-Kx9cuWtj67v03y
-linea_de_coña_2
-qVPzDfn0UwNhs
+ghp_KGFHCqfl
+------------
+Fj3mtCskNyvZidIJ
+------------
+pN0uoA1ElBwV
 
 ```
 
@@ -50,7 +50,7 @@ Problema con varios vaults:
 
 **Contraseña de gitHub:**
 
-En Mac, con incluirlo una vez ya funciona. Se queda grabado en el keychainAceess
+En Mac, con incluirlo una vez (se usa como si fuera la password normal)ya funciona. Se queda grabado en el keychainAceess
 login/passwords/github
 
 - Qué hacer si quiero cambiar mi contraseña de gitHub o eliminarla:
