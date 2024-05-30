@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "4) High Availability & Scalability",
+      "path": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md"
+    },
+    {
+      "basename": "3- EC2",
+      "path": "Certs_and_Trainings/AWS_CERT/3- EC2.md"
+    },
+    {
+      "basename": "Pasted image 20240526183653",
+      "path": "_attachment/Pasted image 20240526183653.png"
+    },
+    {
+      "basename": "Kanban de Habitos",
+      "path": "Kanban de Habitos.md"
+    },
+    {
+      "basename": "kanban",
+      "path": "_attachment/kanban.md"
+    },
+    {
+      "basename": "Pasted image 20240401192308",
+      "path": "_attachment/Pasted image 20240401192308.png"
+    },
+    {
+      "basename": "Pasted image 20240519183606",
+      "path": "_attachment/Pasted image 20240519183606.png"
+    },
+    {
+      "basename": "Pasted image 20240525125953",
+      "path": "_attachment/Pasted image 20240525125953.png"
+    },
+    {
+      "basename": "Pasted image 20240525171454",
+      "path": "_attachment/Pasted image 20240525171454.png"
+    },
+    {
+      "basename": "Pasted image 20240525171516",
+      "path": "_attachment/Pasted image 20240525171516.png"
+    },
+    {
+      "basename": "Pasted image 20240526135024",
+      "path": "_attachment/Pasted image 20240526135024.png"
+    },
+    {
+      "basename": "Pasted image 20240526135912",
+      "path": "_attachment/Pasted image 20240526135912.png"
+    },
+    {
+      "basename": "1- Bases",
+      "path": "Certs_and_Trainings/AWS_CERT/1- Bases.md"
+    },
+    {
+      "basename": "kanban",
+      "path": "kanban.md"
+    },
+    {
+      "basename": "trucos Mac",
+      "path": "Trucos Mac/trucos Mac.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Certs_and_Trainings/Kanban.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Personal/Ideas/Ideas.md"
+    },
+    {
+      "basename": "List of Services",
+      "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
+    },
+    {
+      "basename": "2- IAM",
+      "path": "Certs_and_Trainings/AWS_CERT/2- IAM.md"
+    },
+    {
+      "basename": "AWS Burn Account for testing",
+      "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
+    },
+    {
       "basename": "Git y config de Obsidian",
       "path": "Git y config de Obsidian/Git y config de Obsidian.md"
     },
@@ -11,22 +91,6 @@
     {
       "basename": "storage types -> EBS - EFS",
       "path": "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md"
-    },
-    {
-      "basename": "IAM",
-      "path": "Certs_and_Trainings/AWS_CERT/IAM.md"
-    },
-    {
-      "basename": "1- Bases",
-      "path": "Certs_and_Trainings/AWS_CERT/1- Bases.md"
-    },
-    {
-      "basename": "kanban",
-      "path": "_attachment/kanban.md"
-    },
-    {
-      "basename": "List of Services",
-      "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
     },
     {
       "basename": "Cosas para aplicar al curro",
@@ -85,16 +149,8 @@
       "path": "Certs_and_Trainings/Kustomize/2) Kustomization File.md"
     },
     {
-      "basename": "trucos Mac",
-      "path": "Trucos Mac/trucos Mac.md"
-    },
-    {
       "basename": "Voucher",
       "path": "Certs_and_Trainings/AWS_CERT/Voucher.md"
-    },
-    {
-      "basename": "AWS Burn Account for testing",
-      "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
     },
     {
       "basename": "2024-01-12",
@@ -133,60 +189,12 @@
       "path": "Untitled 1.md"
     },
     {
-      "basename": "my Kanban Board",
-      "path": "my Kanban Board.md"
-    },
-    {
       "basename": "2024-01-10 mondongada",
       "path": "CalendarEvents/2024-01-10 mondongada.md"
     },
     {
       "basename": "2024-01-22",
       "path": "Diario/2024-01-22.md"
-    },
-    {
-      "basename": "2024-01-09 2",
-      "path": "Diario/2024-01-09 2.md"
-    },
-    {
-      "basename": "2024-01-09 1",
-      "path": "Diario/2024-01-09 1.md"
-    },
-    {
-      "basename": "2024-Q1",
-      "path": "Periodic/Quarters/2024-Q1.md"
-    },
-    {
-      "basename": "2024",
-      "path": "Periodic/Years/2024.md"
-    },
-    {
-      "basename": "Screenshot 2023-12-19 at 09.27.53",
-      "path": "_attachment/Screenshot 2023-12-19 at 09.27.53.png"
-    },
-    {
-      "basename": "2024-W04",
-      "path": "Periodic/Weeks/2024-W04.md"
-    },
-    {
-      "basename": "2024-W09",
-      "path": "Periodic/Weeks/2024-W09.md"
-    },
-    {
-      "basename": "2024-01",
-      "path": "Periodic/Months/2024-01.md"
-    },
-    {
-      "basename": "Drawing 2024-01-09 19.44.05.excalidraw",
-      "path": "_attachment/Excalidraw/Drawing 2024-01-09 19.44.05.excalidraw.md"
-    },
-    {
-      "basename": "2024-W10",
-      "path": "Periodic/Weeks/2024-W10.md"
-    },
-    {
-      "basename": "kanban",
-      "path": "kanban.md"
     }
   ],
   "omittedPaths": [],

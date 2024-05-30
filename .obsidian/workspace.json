@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
+                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "instance store",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
+                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md",
+                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git y config de Obsidian/Git y config de Obsidian.md"
+                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md"
               }
             }
           },
@@ -175,51 +175,52 @@
   },
   "active": "fd84617df6715996",
   "lastOpenFiles": [
+    "Certs_and_Trainings/AWS_CERT/3- EC2.md",
+    "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
+    "_attachment/Pasted image 20240526200721.png",
+    "_attachment/Pasted image 20240526200708.png",
+    "_attachment/Pasted image 20240526200546.png",
+    "_attachment/Pasted image 20240526193456.png",
+    "_attachment/Pasted image 20240526183653.png",
+    "_attachment/Screenshot 2023-12-19 at 09.27.53.png",
+    "_attachment/Pasted image 20240526183645.png",
+    "_attachment/Pasted image 20240526182412.png",
+    "Kanban de Habitos.md",
+    "_attachment/kanban.md",
+    "_attachment/Pasted image 20240401192308.png",
+    "_attachment/Pasted image 20240519183606.png",
+    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
+    "kanban.md",
+    "Trucos Mac/trucos Mac.md",
+    "_attachment/Keyboard+Shortcuts+Apple",
+    "Certs_and_Trainings/Kanban.md",
+    "Personal/Ideas/Ideas.md",
+    "Personal/Ideas",
+    "Certs_and_Trainings/Kanban",
+    "Certs_and_Trainings/AWS_CERT/List of Services.md",
+    "Certs_and_Trainings/AWS_CERT/2- IAM.md",
+    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
+    "Git y config de Obsidian/Git y config de Obsidian.md",
     "Certs_and_Trainings/AWS_CERT/otros recursos.md",
     "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md",
-    "_attachment/Pasted image 20240518202716.png",
-    "Certs_and_Trainings/AWS_CERT/IAM.md",
-    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
-    "_attachment/kanban.md",
-    "Certs_and_Trainings/AWS_CERT/List of Services.md",
     "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
-    "_attachment/Pasted image 20240512185316.png",
     "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
-    "Git y config de Obsidian/Git y config de Obsidian.md",
-    "_attachment/Pasted image 20240512180334.png",
-    "_attachment/Pasted image 20240512181725.png",
     "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md",
     "Certs_and_Trainings/Instana/Instana.md",
-    "_attachment/Pasted image 20240508112016.png",
-    "_attachment/Pasted image 20240508104629.png",
     "Certs_and_Trainings/AWS_CERT/RDS y Aurora.md",
     "Certs_and_Trainings/Instana",
-    "_attachment/Pasted image 20240505213933.png",
     "_attachment/compra Santander.pdf",
     "Inversion/compra santander.md",
     "Inversion",
     "Obsidian.md",
     "Welcome.md",
-    "_attachment/Pasted image 20240505203345.png",
-    "_attachment/Pasted image 20240505203316.png",
     "Certs_and_Trainings/Pendiente de investigar.md",
-    "_attachment/Pasted image 20240504081534.png",
     "Certs_and_Trainings/Helm/Helm.md",
     "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md",
-    "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md",
-    "Certs_and_Trainings/Kustomize/3) Patching Resources.md",
-    "Certs_and_Trainings/Kustomize/2) Kustomization File.md",
-    "Trucos Mac/trucos Mac.md",
     "Trucos Mac",
     "Git y config de Obsidian",
     "Certs_and_Trainings/Helm",
-    "Certs_and_Trainings/AWS_CERT/Voucher.md",
-    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
-    "Diario/2024-01-12.md",
     "Certs_and_Trainings/Kustomize",
-    "Certs_and_Trainings",
-    "Certs_and_Trainings/AWS_CERT",
-    "Personal/Habitos",
     "Untitled.canvas"
   ]
 }
