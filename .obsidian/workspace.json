@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2554d629f4a7f2",
+        "id": "643713b6a1617230",
         "type": "tabs",
         "children": [
           {
-            "id": "fd84617df6715996",
+            "id": "45f2820a808dc3a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "84c5d40be1abfa55",
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,22 +165,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd84617df6715996",
+  "active": "45f2820a808dc3a2",
   "lastOpenFiles": [
-    "Certs_and_Trainings/AWS_CERT/3- EC2.md",
+    "Certs_and_Trainings/AWS_CERT/7) Networking -VPC.md",
+    "Inversion/compra santander.md",
+    "_attachment/Pasted image 20240401095414.png",
+    "_attachment/Pasted image 20240401090200.png",
+    "_attachment/Pasted image 20240401080101.png",
+    "_attachment/Pasted image 20240113113927.png",
+    "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
+    "_attachment/Pasted image 20240602201248.png",
+    "_attachment/Pasted image 20240602195919.png",
+    "_attachment/Pasted image 20240602194711.png",
+    "_attachment/Pasted image 20240602194514.png",
+    "_attachment/Pasted image 20240602194232.png",
+    "_attachment/Pasted image 20240602192738.png",
+    "Certs_and_Trainings/AWS_CERT/6) Architecture Solutions.md",
+    "Certs_and_Trainings/AWS_CERT/5) Route 53.md",
     "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
-    "_attachment/Pasted image 20240526200721.png",
-    "_attachment/Pasted image 20240526200708.png",
-    "_attachment/Pasted image 20240526200546.png",
-    "_attachment/Pasted image 20240526193456.png",
-    "_attachment/Pasted image 20240526183653.png",
-    "_attachment/Screenshot 2023-12-19 at 09.27.53.png",
-    "_attachment/Pasted image 20240526183645.png",
-    "_attachment/Pasted image 20240526182412.png",
+    "multi-value.md",
+    "Certs_and_Trainings/AWS_CERT/otros recursos.md",
+    "Certs_and_Trainings/AWS_CERT/Complementos.md",
+    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
+    "TECH/debug-connectivity.md",
+    "_attachment/debug-connectivity.yml",
+    "TECH",
+    "Certs_and_Trainings/AWS_CERT/3- EC2.md",
     "Kanban de Habitos.md",
     "_attachment/kanban.md",
-    "_attachment/Pasted image 20240401192308.png",
-    "_attachment/Pasted image 20240519183606.png",
     "Certs_and_Trainings/AWS_CERT/1- Bases.md",
     "kanban.md",
     "Trucos Mac/trucos Mac.md",
@@ -199,28 +203,16 @@
     "Certs_and_Trainings/Kanban",
     "Certs_and_Trainings/AWS_CERT/List of Services.md",
     "Certs_and_Trainings/AWS_CERT/2- IAM.md",
-    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
     "Git y config de Obsidian/Git y config de Obsidian.md",
-    "Certs_and_Trainings/AWS_CERT/otros recursos.md",
     "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md",
-    "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
     "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
     "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md",
     "Certs_and_Trainings/Instana/Instana.md",
-    "Certs_and_Trainings/AWS_CERT/RDS y Aurora.md",
     "Certs_and_Trainings/Instana",
     "_attachment/compra Santander.pdf",
-    "Inversion/compra santander.md",
     "Inversion",
-    "Obsidian.md",
-    "Welcome.md",
-    "Certs_and_Trainings/Pendiente de investigar.md",
-    "Certs_and_Trainings/Helm/Helm.md",
-    "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md",
     "Trucos Mac",
     "Git y config de Obsidian",
-    "Certs_and_Trainings/Helm",
-    "Certs_and_Trainings/Kustomize",
     "Untitled.canvas"
   ]
 }

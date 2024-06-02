@@ -1,0 +1,48 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: debug-connectivity
+  labels:
+    project: m3
+    app: debug-connectivity
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: debug-connectivity
+  strategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        project: m3
+        app: debug-connectivity
+    spec:
+      containers:
+        - name: debug-connectivity
+          image: registry.tools.3stripes.net/pea-co-public/debug:3.0.0
+          ##############################################
+          securityContext:
+             capabilities:
+              drop:
+                - ALL
+             allowPrivilegeEscalation: false
+             privileged: false
+             runAsUser: 1000
+             runAsNonRoot: true
+             runAsGroup: 1000 # This is an example group, it needs to be >0
+             seccompProfile:
+              type: "RuntimeDefault"
+             readOnlyRootFilesystem: true
+          ###############################################
+          imagePullPolicy: Always
+          resources:
+            requests:
+              cpu: 500m
+              memory: 1000Mi
+            limits:
+              cpu: 1000m
+              memory: 1200Mi
+      imagePullSecrets:
+        - name: m3-harbor-secret

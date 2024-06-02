@@ -62,3 +62,81 @@ Existe la posibilidad de crear replicas de **lectura** que escalen automaticamen
 ![[Pasted image 20240512185316.png]]
 
 ---
+
+#terraform
+
+### ¿Puedo traducir una arquitectura AWS existente a formato CloudFormation o Terraform?
+
+Sí, es posible traducir una arquitectura existente a formato CloudFormation o Terraform, pero no es un proceso completamente automatizado y puede requerir algunos pasos manuales. Aquí te explico cómo hacerlo:
+
+#### 1. **Usando CloudFormer para CloudFormation**
+
+AWS proporciona una herramienta llamada **CloudFormer**, que puede ayudarte a crear una plantilla de CloudFormation basada en tus recursos existentes en AWS.
+
+1. **Iniciar CloudFormer:**
+    
+    - Lanza una instancia de CloudFormer desde la consola de AWS Management.
+    - Accede a la interfaz web de CloudFormer.
+2. **Seleccionar Recursos:**
+    
+    - Utiliza la interfaz de CloudFormer para seleccionar los recursos que deseas incluir en tu plantilla de CloudFormation.
+3. **Generar la Plantilla:**
+    
+    - CloudFormer generará una plantilla de CloudFormation basada en los recursos seleccionados.
+    - Descarga la plantilla generada y adáptala según tus necesidades.
+
+#### 2. **Usando Terraformer para Terraform**
+
+Para Terraform, puedes usar una herramienta de código abierto llamada **Terraformer**.
+
+1. **Instalar Terraformer:**
+    
+    - Instala Terraformer siguiendo las instrucciones disponibles en el [repositorio oficial de GitHub](https://github.com/GoogleCloudPlatform/terraformer).
+2. **Configurar y Ejecutar Terraformer:**
+    
+    - Configura tus credenciales de AWS.
+    - Ejecuta Terraformer para extraer los recursos de AWS y generar archivos de configuración de Terraform.
+    - Comando de ejemplo:
+        
+        `terraformer import aws --resources=vpc,subnet,ec2 --regions=us-east-1`
+        
+3. **Refinar la Configuración:**
+    
+    - Revisa y ajusta los archivos generados para asegurar que cumplen con tus requerimientos.
+
+----
+
+###### Bastion de acceso a BBDD
+
+puedes usar un bastion host como punto de entrada seguro para acceder a una base de datos Amazon Aurora que esté ubicada en una VPC privada. Un bastion host actúa como un punto de entrada seguro para acceder a instancias dentro de una red privada desde una red pública, como Internet.
+
+Aquí te muestro un ejemplo de cómo podrías configurarlo:
+
+1. **Crea un Bastion Host**: Configura un bastion host en una subred pública de tu VPC. Asegúrate de que tenga las medidas de seguridad adecuadas, como grupos de seguridad que limiten el acceso a direcciones IP específicas y claves SSH para autenticación.
+    
+2. **Configura la Seguridad del Bastion Host**: Ajusta los grupos de seguridad del bastion host para permitir el acceso desde tu dirección IP pública y desde la VPC donde se encuentra tu Amazon Aurora.
+    
+3. **Accede al Bastion Host**: Utiliza una conexión SSH para acceder al bastion host desde tu máquina local o desde cualquier otro lugar con acceso a Internet.
+    
+4. **Accede a la Base de Datos Aurora**: Desde el bastion host, puedes utilizar una conexión de línea de comandos o una herramienta de administración de bases de datos para acceder a la base de datos Amazon Aurora que está en una subred privada de tu VPC.
+   
+5. **Configura un túnel SSH desde tu máquina local al bastion host**: Utiliza el comando SSH en tu terminal local para crear un túnel SSH que redirija un puerto local hacia el puerto de la base de datos en el bastion host. Por ejemplo:
+    
+    `ssh -i tu_llave_privada.pem -N -L 3306:nombre_host_aurora:3306 usuario@bastion_host`
+    
+    Esto crea un túnel SSH que redirige el tráfico desde el puerto 3306 de tu máquina local al puerto 3306 del host de Aurora a través del bastion host.
+    
+- **Configura la conexión a la base de datos desde tu máquina local**: Ahora puedes configurar tu aplicación o herramienta de administración de bases de datos para que se conecte a `localhost:3306` (o al puerto local que hayas especificado en el túnel SSH) como si estuviera conectándose directamente a la base de datos en Aurora. El tráfico se redirigirá a través del túnel SSH y pasará por el bastion host hacia la base de datos.
+
+
+En caso de que el bastion sea para un EC2: 
+En este caso hay dos .pem, el del bastion y el del Ec2.
+
+es posible configurar todo el túnel SSH desde tu máquina local utilizando un solo comando, combinando las dos conexiones SSH necesarias. Aquí está el comando que puedes utilizar:
+
+
+`ssh -i llave_privada_bastion.pem -N -L puerto_local:nombre_host_ec2:puerto_remoto usuario@direccion_ip_bastion -i llave_privada_ec2.pem -N -L puerto_local:nombre_host_ec2:puerto_remoto usuario@direccion_ip_ec2`
+
+
+
+

@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "4) High Availability & Scalability",
-      "path": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md"
+      "basename": "7) Networking -VPC",
+      "path": "Certs_and_Trainings/AWS_CERT/7) Networking -VPC.md"
     },
     {
-      "basename": "3- EC2",
-      "path": "Certs_and_Trainings/AWS_CERT/3- EC2.md"
+      "basename": "compra santander",
+      "path": "Inversion/compra santander.md"
+    },
+    {
+      "basename": "Pasted image 20240401095414",
+      "path": "_attachment/Pasted image 20240401095414.png"
+    },
+    {
+      "basename": "Pasted image 20240401090200",
+      "path": "_attachment/Pasted image 20240401090200.png"
+    },
+    {
+      "basename": "Pasted image 20240401080101",
+      "path": "_attachment/Pasted image 20240401080101.png"
+    },
+    {
+      "basename": "Pasted image 20240113113927",
+      "path": "_attachment/Pasted image 20240113113927.png"
+    },
+    {
+      "basename": "Cosas para aplicar al curro",
+      "path": "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md"
+    },
+    {
+      "basename": "6) Architecture Solutions",
+      "path": "Certs_and_Trainings/AWS_CERT/6) Architecture Solutions.md"
+    },
+    {
+      "basename": "5) Route 53",
+      "path": "Certs_and_Trainings/AWS_CERT/5) Route 53.md"
+    },
+    {
+      "basename": "Pasted image 20240518202716",
+      "path": "_attachment/Pasted image 20240518202716.png"
     },
     {
       "basename": "Pasted image 20240526183653",
       "path": "_attachment/Pasted image 20240526183653.png"
+    },
+    {
+      "basename": "Pasted image 20240602083523",
+      "path": "_attachment/Pasted image 20240602083523.png"
+    },
+    {
+      "basename": "4) High Availability & Scalability",
+      "path": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md"
+    },
+    {
+      "basename": "multi-value",
+      "path": "multi-value.md"
+    },
+    {
+      "basename": "otros recursos",
+      "path": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
+    },
+    {
+      "basename": "AWS Burn Account for testing",
+      "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
+    },
+    {
+      "basename": "debug-connectivity",
+      "path": "TECH/debug-connectivity.md"
+    },
+    {
+      "basename": "3- EC2",
+      "path": "Certs_and_Trainings/AWS_CERT/3- EC2.md"
     },
     {
       "basename": "Kanban de Habitos",
@@ -77,24 +137,12 @@
       "path": "Certs_and_Trainings/AWS_CERT/2- IAM.md"
     },
     {
-      "basename": "AWS Burn Account for testing",
-      "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
-    },
-    {
       "basename": "Git y config de Obsidian",
       "path": "Git y config de Obsidian/Git y config de Obsidian.md"
     },
     {
-      "basename": "otros recursos",
-      "path": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
-    },
-    {
       "basename": "storage types -> EBS - EFS",
       "path": "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md"
-    },
-    {
-      "basename": "Cosas para aplicar al curro",
-      "path": "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md"
     },
     {
       "basename": "Kustomize - Notas(I)",
@@ -111,10 +159,6 @@
     {
       "basename": "RDS y Aurora",
       "path": "Certs_and_Trainings/AWS_CERT/RDS y Aurora.md"
-    },
-    {
-      "basename": "compra santander",
-      "path": "Inversion/compra santander.md"
     },
     {
       "basename": "Obsidian",
@@ -155,46 +199,6 @@
     {
       "basename": "2024-01-12",
       "path": "Diario/2024-01-12.md"
-    },
-    {
-      "basename": "Ejercicio",
-      "path": "Certs_and_Trainings/Kustomize/Ejercicio.md"
-    },
-    {
-      "basename": "Habitos que implantar",
-      "path": "Personal/Habitos/Habitos que implantar.md"
-    },
-    {
-      "basename": "Batch Cooking",
-      "path": "Personal/Habitos/Batch Cooking.md"
-    },
-    {
-      "basename": "Three laws of motion",
-      "path": "Three laws of motion.md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "Diario/2024-01-09.md"
-    },
-    {
-      "basename": "2024-01-11",
-      "path": "Diario/2024-01-11.md"
-    },
-    {
-      "basename": "daily_template",
-      "path": "_templates/daily_template.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "2024-01-10 mondongada",
-      "path": "CalendarEvents/2024-01-10 mondongada.md"
-    },
-    {
-      "basename": "2024-01-22",
-      "path": "Diario/2024-01-22.md"
     }
   ],
   "omittedPaths": [],
