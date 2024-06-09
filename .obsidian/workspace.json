@@ -11,8 +11,12 @@
             "id": "45f2820a808dc3a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Certs_and_Trainings/AWS_CERT/9 - Databases.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instance store",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 257.5
   },
   "right": {
     "id": "84c5d40be1abfa55",
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Certs_and_Trainings/AWS_CERT/9 - Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Certs_and_Trainings/AWS_CERT/9 - Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Certs_and_Trainings/AWS_CERT/9 - Databases.md"
+              }
             }
           },
           {
@@ -146,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 200.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,52 +176,52 @@
   },
   "active": "45f2820a808dc3a2",
   "lastOpenFiles": [
-    "Certs_and_Trainings/AWS_CERT/7) Networking -VPC.md",
+    "Certs_and_Trainings/AWS_CERT/AWS - Cosas para aplicar al curro.md",
+    "Certs_and_Trainings/Pendiente de investigar.md",
+    "Certs_and_Trainings/Cosas Por Aprender.md",
+    "Certs_and_Trainings/AWS_CERT/9 - Databases.md",
+    "Certs_and_Trainings/AWS_CERT/8 - Migrations & Disaster Recovery (DR).md",
+    "_attachment/Pasted image 20240609190127.png",
+    "_attachment/Pasted image 20240609185347.png",
+    "_attachment/Pasted image 20240609184925.png",
+    "Certs_and_Trainings/AWS_CERT/7.2 - Networking Costs.md",
+    "_attachment/Pasted image 20240609134923.png",
+    "_attachment/Pasted image 20240609134515.png",
+    "_attachment/Pasted image 20240609133911.png",
+    "_attachment/Pasted image 20240609133427.png",
+    "_attachment/Pasted image 20240609133318.png",
+    "_attachment/Pasted image 20240609133211.png",
+    "_attachment/Pasted image 20240609132410.png",
+    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
+    "Certs_and_Trainings/AWS_CERT/7 - Networking -VPC.md",
+    "Certs_and_Trainings/AWS_CERT/7.1 - VPC.md",
+    "Personal/Dieta Keto !!.md",
+    "Certs_and_Trainings/AWS_CERT/4 - High Availability & Scalability.md",
+    "Certs_and_Trainings/AWS_CERT/3 - EC2.md",
+    "Certs_and_Trainings/AWS_CERT/2 - IAM.md",
+    "Certs_and_Trainings/AWS_CERT/1 - Bases.md",
+    "TECH/ChatGPT.md",
+    "_attachment/PromptChatgpt.txt",
+    "Certs_and_Trainings/AWS_CERT/6 - Architecture Solutions.md",
+    "Certs_and_Trainings/AWS_CERT/5 - Route 53.md",
     "Inversion/compra santander.md",
-    "_attachment/Pasted image 20240401095414.png",
-    "_attachment/Pasted image 20240401090200.png",
-    "_attachment/Pasted image 20240401080101.png",
-    "_attachment/Pasted image 20240113113927.png",
-    "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md",
-    "_attachment/Pasted image 20240602201248.png",
-    "_attachment/Pasted image 20240602195919.png",
-    "_attachment/Pasted image 20240602194711.png",
-    "_attachment/Pasted image 20240602194514.png",
-    "_attachment/Pasted image 20240602194232.png",
-    "_attachment/Pasted image 20240602192738.png",
-    "Certs_and_Trainings/AWS_CERT/6) Architecture Solutions.md",
-    "Certs_and_Trainings/AWS_CERT/5) Route 53.md",
-    "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md",
     "multi-value.md",
     "Certs_and_Trainings/AWS_CERT/otros recursos.md",
     "Certs_and_Trainings/AWS_CERT/Complementos.md",
-    "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md",
     "TECH/debug-connectivity.md",
     "_attachment/debug-connectivity.yml",
     "TECH",
-    "Certs_and_Trainings/AWS_CERT/3- EC2.md",
     "Kanban de Habitos.md",
     "_attachment/kanban.md",
-    "Certs_and_Trainings/AWS_CERT/1- Bases.md",
     "kanban.md",
     "Trucos Mac/trucos Mac.md",
     "_attachment/Keyboard+Shortcuts+Apple",
-    "Certs_and_Trainings/Kanban.md",
-    "Personal/Ideas/Ideas.md",
     "Personal/Ideas",
     "Certs_and_Trainings/Kanban",
-    "Certs_and_Trainings/AWS_CERT/List of Services.md",
-    "Certs_and_Trainings/AWS_CERT/2- IAM.md",
-    "Git y config de Obsidian/Git y config de Obsidian.md",
-    "Certs_and_Trainings/AWS_CERT/storage types -> EBS - EFS.md",
-    "Certs_and_Trainings/Kustomize/Kustomize - Notas(I).md",
-    "Certs_and_Trainings/Kustomize/1) Kustomize - intro.md",
-    "Certs_and_Trainings/Instana/Instana.md",
     "Certs_and_Trainings/Instana",
     "_attachment/compra Santander.pdf",
     "Inversion",
     "Trucos Mac",
-    "Git y config de Obsidian",
     "Untitled.canvas"
   ]
 }

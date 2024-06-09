@@ -1,0 +1,5 @@
+- Usar Obsidian
+- Obsidian en movil y como diario
+- excalidraw
+- https://www.youtube.com/watch?v=Z5W68WXldr0&t=569s
+- 

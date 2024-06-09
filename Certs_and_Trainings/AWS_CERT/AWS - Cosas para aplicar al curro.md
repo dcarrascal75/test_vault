@@ -11,6 +11,29 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Clo
 
 En mi caso de uso actual, necesito los snapshots, habria que ver si hay alguna ventaja en hacer el clone.
 
+*¿Se puede usar Aurora Database Cloning entre diferentes AWS accounts? Tengo una account en prod y una account en STG, me gustaria hacer copias regulares de mi bbdd de prod a la account de stg* 
+
+**Sí, es posible utilizar la funcionalidad de clonación de bases de datos Aurora entre diferentes cuentas de AWS**. Esto permite realizar copias regulares de una base de datos de producción en una cuenta de entorno de ensayo o pruebas, como en el caso de su cuenta de STG.
+
+##### Proceso de Clonación
+
+1. **Conexión entre Cuentas**: Es necesario configurar permisos de IAM que permitan a la cuenta de STG acceder a los recursos de la cuenta de producción, específicamente a la base de datos Aurora que se desea clonar.
+
+2. **Configuración de Políticas de IAM**: Se deben crear y configurar políticas de IAM tanto en la cuenta de producción como en la cuenta de STG para permitir el acceso y la clonación de la base de datos.
+
+3. **Utilización de la Consola de AWS**: Una vez configuradas las políticas de IAM, se puede utilizar la consola de AWS para iniciar el proceso de clonación de la base de datos Aurora desde la cuenta de producción a la cuenta de STG.
+
+##### Consideraciones
+
+- **Seguridad**: Es importante asegurarse de que se sigan las mejores prácticas de seguridad al configurar los permisos de IAM para garantizar que solo los usuarios autorizados tengan acceso a los recursos.
+
+- **Costos**: Se deben tener en cuenta los costos asociados con la transferencia de datos entre cuentas de AWS, especialmente si la base de datos de producción es grande y se realizan copias regulares.
+
+##### Resumen
+
+La clonación de bases de datos Aurora entre diferentes cuentas de AWS es posible mediante la configuración adecuada de permisos de IAM y el uso de la consola de AWS para iniciar el proceso de clonación. Esto permite realizar copias regulares de una base de datos de producción en una cuenta de entorno de ensayo o pruebas.
+
+
 ---
 
 **Uso de RDS Proxy**

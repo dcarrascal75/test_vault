@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "7) Networking -VPC",
-      "path": "Certs_and_Trainings/AWS_CERT/7) Networking -VPC.md"
+      "basename": "9 - Databases",
+      "path": "Certs_and_Trainings/AWS_CERT/9 - Databases.md"
+    },
+    {
+      "basename": "AWS - Cosas para aplicar al curro",
+      "path": "Certs_and_Trainings/AWS_CERT/AWS - Cosas para aplicar al curro.md"
+    },
+    {
+      "basename": "Pendiente de investigar",
+      "path": "Certs_and_Trainings/Pendiente de investigar.md"
+    },
+    {
+      "basename": "Cosas Por Aprender",
+      "path": "Certs_and_Trainings/Cosas Por Aprender.md"
+    },
+    {
+      "basename": "8 - Migrations & Disaster Recovery (DR)",
+      "path": "Certs_and_Trainings/AWS_CERT/8 - Migrations & Disaster Recovery (DR).md"
+    },
+    {
+      "basename": "7.2 - Networking Costs",
+      "path": "Certs_and_Trainings/AWS_CERT/7.2 - Networking Costs.md"
+    },
+    {
+      "basename": "Pasted image 20240609133318",
+      "path": "_attachment/Pasted image 20240609133318.png"
+    },
+    {
+      "basename": "AWS Burn Account for testing",
+      "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
+    },
+    {
+      "basename": "7 - Networking -VPC",
+      "path": "Certs_and_Trainings/AWS_CERT/7 - Networking -VPC.md"
+    },
+    {
+      "basename": "7.1 - VPC",
+      "path": "Certs_and_Trainings/AWS_CERT/7.1 - VPC.md"
+    },
+    {
+      "basename": "Dieta Keto !!",
+      "path": "Personal/Dieta Keto !!.md"
+    },
+    {
+      "basename": "4 - High Availability & Scalability",
+      "path": "Certs_and_Trainings/AWS_CERT/4 - High Availability & Scalability.md"
+    },
+    {
+      "basename": "3 - EC2",
+      "path": "Certs_and_Trainings/AWS_CERT/3 - EC2.md"
+    },
+    {
+      "basename": "2 - IAM",
+      "path": "Certs_and_Trainings/AWS_CERT/2 - IAM.md"
+    },
+    {
+      "basename": "1 - Bases",
+      "path": "Certs_and_Trainings/AWS_CERT/1 - Bases.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "TECH/ChatGPT.md"
+    },
+    {
+      "basename": "Pasted image 20240608082809",
+      "path": "_attachment/Pasted image 20240608082809.png"
+    },
+    {
+      "basename": "6 - Architecture Solutions",
+      "path": "Certs_and_Trainings/AWS_CERT/6 - Architecture Solutions.md"
+    },
+    {
+      "basename": "5 - Route 53",
+      "path": "Certs_and_Trainings/AWS_CERT/5 - Route 53.md"
     },
     {
       "basename": "compra santander",
@@ -25,18 +97,6 @@
       "path": "_attachment/Pasted image 20240113113927.png"
     },
     {
-      "basename": "Cosas para aplicar al curro",
-      "path": "Certs_and_Trainings/AWS_CERT/Cosas para aplicar al curro.md"
-    },
-    {
-      "basename": "6) Architecture Solutions",
-      "path": "Certs_and_Trainings/AWS_CERT/6) Architecture Solutions.md"
-    },
-    {
-      "basename": "5) Route 53",
-      "path": "Certs_and_Trainings/AWS_CERT/5) Route 53.md"
-    },
-    {
       "basename": "Pasted image 20240518202716",
       "path": "_attachment/Pasted image 20240518202716.png"
     },
@@ -49,10 +109,6 @@
       "path": "_attachment/Pasted image 20240602083523.png"
     },
     {
-      "basename": "4) High Availability & Scalability",
-      "path": "Certs_and_Trainings/AWS_CERT/4) High Availability & Scalability.md"
-    },
-    {
       "basename": "multi-value",
       "path": "multi-value.md"
     },
@@ -61,16 +117,8 @@
       "path": "Certs_and_Trainings/AWS_CERT/otros recursos.md"
     },
     {
-      "basename": "AWS Burn Account for testing",
-      "path": "Certs_and_Trainings/AWS_CERT/AWS Burn Account for testing.md"
-    },
-    {
       "basename": "debug-connectivity",
       "path": "TECH/debug-connectivity.md"
-    },
-    {
-      "basename": "3- EC2",
-      "path": "Certs_and_Trainings/AWS_CERT/3- EC2.md"
     },
     {
       "basename": "Kanban de Habitos",
@@ -109,10 +157,6 @@
       "path": "_attachment/Pasted image 20240526135912.png"
     },
     {
-      "basename": "1- Bases",
-      "path": "Certs_and_Trainings/AWS_CERT/1- Bases.md"
-    },
-    {
       "basename": "kanban",
       "path": "kanban.md"
     },
@@ -131,10 +175,6 @@
     {
       "basename": "List of Services",
       "path": "Certs_and_Trainings/AWS_CERT/List of Services.md"
-    },
-    {
-      "basename": "2- IAM",
-      "path": "Certs_and_Trainings/AWS_CERT/2- IAM.md"
     },
     {
       "basename": "Git y config de Obsidian",
@@ -159,46 +199,6 @@
     {
       "basename": "RDS y Aurora",
       "path": "Certs_and_Trainings/AWS_CERT/RDS y Aurora.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Obsidian.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
-    },
-    {
-      "basename": "Pendiente de investigar",
-      "path": "Certs_and_Trainings/Pendiente de investigar.md"
-    },
-    {
-      "basename": "Helm",
-      "path": "Certs_and_Trainings/Helm/Helm.md"
-    },
-    {
-      "basename": "5) kustomize CLI and Helm",
-      "path": "Certs_and_Trainings/Kustomize/5) kustomize CLI and Helm.md"
-    },
-    {
-      "basename": "4) Multiple Environments - Overlays",
-      "path": "Certs_and_Trainings/Kustomize/4) Multiple Environments - Overlays.md"
-    },
-    {
-      "basename": "3) Patching Resources",
-      "path": "Certs_and_Trainings/Kustomize/3) Patching Resources.md"
-    },
-    {
-      "basename": "2) Kustomization File",
-      "path": "Certs_and_Trainings/Kustomize/2) Kustomization File.md"
-    },
-    {
-      "basename": "Voucher",
-      "path": "Certs_and_Trainings/AWS_CERT/Voucher.md"
-    },
-    {
-      "basename": "2024-01-12",
-      "path": "Diario/2024-01-12.md"
     }
   ],
   "omittedPaths": [],

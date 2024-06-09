@@ -1,0 +1,16 @@
+/* Aumentar el ancho máximo de los paneles de edición y vista previa */
+.workspace-split > div {
+    max-width: 100% !important;
+}
+
+/* Ajustar el padding del editor para aprovechar todo el espacio */
+.markdown-source-view {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+/* Ajustar el padding de la vista previa para aprovechar todo el espacio */
+.markdown-preview-view {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
